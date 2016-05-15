@@ -74,7 +74,7 @@ TARGET_KERNEL_ARCH := arm
 endif
 
 # ANT+
-BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
+# BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
 # Audio
 AUDIO_FEATURE_ENABLED_KPI_OPTIMIZE := true
